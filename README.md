@@ -34,6 +34,7 @@
 - 👀 I’m interested in **AI & ML and Software development**
 - 🌱 I’m currently learning **Python, Java, PHP, AI & ML, JS **
 - 💞️ I’m looking to collaborate on **Web Developing**
+- 💼🌟 Smart, hardworking coder conjuring up brilliance at warp speed! ✨💻
 <a href="https://www.linkedin.com/in/nimesh-kuruppu-838234250/">
 - 📫 Reach me@  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
