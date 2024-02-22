@@ -133,7 +133,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=Thanks+for+Reading!...." alt="Typing SVG" /></a>
 
 <!---
-Ravindu-Priyankara/Ravindu-Priyankara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+NimeshCK0310/NimeshCK0310 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
