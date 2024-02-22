@@ -130,7 +130,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravindu-priyankara&" alt="ravindu-priyankara" /></p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=Thanks+for+Reading!...." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&multiline=true&width=435&lines=Thanks+for+Reading!...." alt="Typing SVG" /></a>
 
 <!---
 NimeshCK0310/NimeshCK0310 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
