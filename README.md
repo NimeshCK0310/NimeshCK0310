@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges"align = "center">
-  <a href="https://www.linkedin.com/in/ravindu-priyankara-8b4449223/">
+  <a href="https://www.linkedin.com/in/nimesh-kuruppu-838234250/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
@@ -34,7 +34,7 @@
 - 👀 I’m interested in **AI & ML and Software development**
 - 🌱 I’m currently learning **Python, Java, PHP, AI & ML, JS **
 - 💞️ I’m looking to collaborate on **Web Developing**
-<a href="https://www.linkedin.com/in/ravindu-priyankara-8b4449223/">
+<a href="https://www.linkedin.com/in/nimesh-kuruppu-838234250/">
 - 📫 Reach me@  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 <br>
