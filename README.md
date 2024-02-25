@@ -14,7 +14,7 @@
   </a>
 </div>
 <div align = "center">
-  <img src="https://komarev.com/ghpvc/?username=NimeshCK0310&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
  </div>
  
  <h1 align = "center">
@@ -24,7 +24,7 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
+  <img src="https://media2.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47j074s9jx1fid8bzagqwsan7n4u03na0q1euw3xnr&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="600" height="300"/>
 </div>
 
 
