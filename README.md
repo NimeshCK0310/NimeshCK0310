@@ -114,7 +114,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
 <br>
-<br>
 
 ------------
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
@@ -122,7 +121,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravindu-priyankara" alt="ravindu-priyankara" /></a> </p>
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
+BLOG-POST-LIST:START 
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
