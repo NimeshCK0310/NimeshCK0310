@@ -36,7 +36,7 @@
 - 📫 How to reach me : nimesh5921@gmail.com
 - 💼🌟 Smart, hardworking coder conjuring up brilliance at warp speed! ✨💻
 <a href="https://www.linkedin.com/in/nimesh-kuruppu-838234250/">
-- 📫 Reach me@  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+📫 Reach me@  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 <br>
 <br>
@@ -115,9 +115,6 @@
 </p>
 <br>
 <br>
-<br>
-
-
 
 ------------
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
