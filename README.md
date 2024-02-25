@@ -1,29 +1,5 @@
-<html>
-<div id="header" align="center">
-  <head>
-  <style>
-    #container {
-      position: relative;
-      width: 100px; /* Adjust width as needed */
-      height: 100px; /* Adjust height as needed */
-    }
-    #image1, #image2 {
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-    }
-  </style>
-</head>
-<body>
-
-<div id="container">
-  <img id="image1" src="https://i.pinimg.com/originals/62/39/4d/62394d753859943e6a1a36443ef78795.gif" />
-  <img id="image2" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-</div>
-
-</body>
+<div id="header" align="center">        
+  <img class="top" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
 <div id="badges"align = "center">
@@ -157,7 +133,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NimeshCK0310&" alt="NimeshCK0310" /></p>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&multiline=true&width=435&lines=Thanks+for+Reading!...." alt="Typing SVG" /></a>
-</html>
+
 
 <!---
 NimeshCK0310/NimeshCK0310 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
