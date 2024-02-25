@@ -143,7 +143,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NimeshCK0310&show_icons=true&locale=en" alt="NimeshCK0310" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NimeshCK0310&" alt="NimeshCK0310" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NimeshCK0310&" alt="NimeshCK0310" /></p>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&multiline=true&width=435&lines=Thanks+for+Reading!...." alt="Typing SVG" /></a>
 
