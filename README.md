@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <div style background:img src="https://i.pinimg.com/originals/62/39/4d/62394d753859943e6a1a36443ef78795.gif" width="100"/> 
+  <div>
+    <img src="https://i.pinimg.com/originals/62/39/4d/62394d753859943e6a1a36443ef78795.gif" width="100"/> 
       <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
       </div>
 </div>
