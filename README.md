@@ -86,7 +86,11 @@
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
 </a>
 
-<br><br>
+<br>
+
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
+</a>
 
 <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa">
@@ -100,9 +104,7 @@
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
 </a>
 
-<a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
-</a>
+
 
 </p>
 <br>
