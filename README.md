@@ -143,7 +143,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NimeshCK0310&show_icons=true&locale=en&layout=compact" alt="NimeshCK0310" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NimeshCK0310&show_icons=true&locale=en" alt="NimeshCK0310" /></p>
+<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NimeshCK0310&show_icons=true&locale=en" alt="NimeshCK0310" /></p>
 
 
 
