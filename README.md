@@ -1,3 +1,4 @@
+<html>
 <div id="header" align="center">
   <head>
   <style>
@@ -156,6 +157,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NimeshCK0310&" alt="NimeshCK0310" /></p>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&multiline=true&width=435&lines=Thanks+for+Reading!...." alt="Typing SVG" /></a>
+</html>
 
 <!---
 NimeshCK0310/NimeshCK0310 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
