@@ -32,7 +32,7 @@
 - 👀 I’m interested in **AI & ML and Software development**.
 - 🌱 I’m currently learning **Python, Java, PHP, AI & ML, JS**
 - 💞️ I’m looking to collaborate on **Developing Open source projects**.
-- 💬 Ask me about **Programming**.
+- 💬 Ask me about **Programming**. 
 - 📫 How to reach me : nimesh5921@gmail.com
 - 💼🌟 Smart, hardworking coder conjuring up brilliance at warp speed! ✨💻  
 <a href="https://www.linkedin.com/in/nimesh-kuruppu-838234250/">
