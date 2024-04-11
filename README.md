@@ -39,7 +39,9 @@
 <!--📫 Reach me @ <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> -->
 </a>
 <br>
+## 💻 <b>Tech Stack</b>
 <br>
+
 <br>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -136,20 +138,22 @@
 ## 📟 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NimeshCK0310&" alt="NimeshCK0310" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=NimeshCK0310&show_icons=true&locale=en" alt="NimeshCK0310" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NimeshCK0310&show_icons=true&locale=en" alt="NimeshCK0310" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NimeshCK0310&" alt="NimeshCK0310" />
 </p>
 
 
 ## 💳 Github Profile Summary Card
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NimeshCK0310&theme=vue"/>
-</p>
+ <span style="color: blue; font-weight: bold;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NimeshCK0310&theme=vue"/>
+</span>
+
 <br/>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajinadissanayake)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NimeshCK0310)
+</p>
 
 
 
