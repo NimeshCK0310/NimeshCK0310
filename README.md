@@ -27,7 +27,7 @@
   <img src="https://media4.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47c58g55cyo7pu7lotbu3yoe1aixmb174vzqs9y6kh&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="700" height="350"/>
 </div>
 
-
+&nbsp;
 - 👋 Hi, I’m **Nimesh Chathuranga**.
 - 👀 I’m interested in **AI & ML and Software development**.
 - 🌱 I’m currently learning **Python, Java, PHP, AI & ML, JS**
@@ -39,10 +39,9 @@
 <!--📫 Reach me @ <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> -->
 </a>
 <br>
-## 💻 <b>Tech Stack</b>
+<h2>💻 <b>Tech Stack</b></h2>
 <br>
 
-<br>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -107,7 +106,7 @@
 
 
 </p>
-<br>
+
 <br>
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
@@ -152,7 +151,10 @@
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NimeshCK0310)
+<p align= "center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NimeshCK0310" alt="Top Languages" />
+</p>
+
 </p>
 
 
