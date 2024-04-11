@@ -145,17 +145,14 @@
 ## 💳 Github Profile Summary Card
 
 <p align="center">
- <span style="color: blue; font-weight: bold;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NimeshCK0310&theme=vue"/>
-</span>
-
-<br/>
-
-<p align= "center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NimeshCK0310" alt="Top Languages" />
 </p>
 
+ <p align="center" color= "blue" font-weight="bold">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NimeshCK0310&theme=vue" />
 </p>
+
+
 
 
 
