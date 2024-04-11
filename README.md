@@ -139,6 +139,23 @@
 <p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NimeshCK0310&show_icons=true&locale=en" alt="NimeshCK0310" /></p>
 
 
+## 📟 GitHub Stats
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sajinadissanayake&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sajinadissanayake&theme=vue" />
+</p>
+
+
+## 💳 Github Profile Summary Card
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajinadissanayake&theme=vue"/>
+</p>
+<br/>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajinadissanayake)
+
+
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&multiline=true&width=435&lines=Thanks+for+Reading!...." alt="Typing SVG" /></a>
 
