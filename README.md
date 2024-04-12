@@ -159,6 +159,15 @@
 
 
 
+<div align="center">
+<h2 align="left"> 📊 GitHub Stats:</h2>
+    <img src="https://github-readme-stats.vercel.app/api?username=NimeshCK0310&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true" /><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NimeshCK0310&theme=highcontrast&hide_border=true" /><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NimeshCK0310&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</div>
+
+
+
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&multiline=true&width=435&lines=Thanks+for+Reading!...." alt="Typing SVG" /></a>
