@@ -137,34 +137,29 @@
 ## 📟 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NimeshCK0310&theme=github&show_icons=true&locale=en" alt="NimeshCK0310" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NimeshCK0310&theme=github" alt="NimeshCK0310" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NimeshCK0310&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NimeshCK0310&theme=highcontrast&hide_border=false"/>
 </p>
 
 
 ## 💳 Github Profile Summary Card
 
  <p align="center" color= "blue" font-weight="bold">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NimeshCK0310&theme=github" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NimeshCK0310&theme=highcontrast&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src= "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NimeshCK0310&theme=github">
-<img  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NimeshCK0310&theme=github">
+  <img src= "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NimeshCK0310&theme=highcontrast&hide_border=false">
+<img  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NimeshCK0310&theme=highcontrast&hide_border=false">
 </p>
 
 <p align="center">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=NimeshCK0310&theme=github" />
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=NimeshCK0310&theme=highcontrast&hide_border=false" />
 </p>
 
 
 
-<div align="center">
-<h2 align="left"> 📊 GitHub Stats:</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=NimeshCK0310&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true" /><br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NimeshCK0310&theme=highcontrast&hide_border=true" /><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NimeshCK0310&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-</div>
+
 
 
 
